@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/SoBiMoqadam/your-repo-name/blob/main/assets/animation.gif?raw=true" alt="Yellow Banner" width="100%" />
+ <img src="https://github.com/SoBiMoqadam/SoBiMoqadam/blob/main/assets/animation.gif?raw=true" />
 </p>
 <hr style="border: 1px solid #f2c200;">
 
