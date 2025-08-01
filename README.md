@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="file:/D:/Git_hub/animation.gif.mp4" alt="Yellow Banner" width="100%" />
+</p>
+
+
+<hr>
+
 <h1 align="center">Hi 👋, I'm Sobhan</h1>
 <h3 align="center">Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer • From Iran</h3>
 
@@ -7,9 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=sobhanmoqadam&label=Profile%20views&color=0e75b6&style=flat" alt="sobhanmoqadam" />
 </p>
 
-- 🌱 I’m currently learning **Bug Bounty**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sobhanmoqadam)
-- 💬 Ask me about **Python and Telegram bots**
+- 🌱 I’m currently learning **Bug Bounty**  
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sobhanmoqadam)  
+- 💬 Ask me about **Python and Telegram bots**  
 - 📫 Reach me at **sobhanmoqadam226@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -44,6 +52,8 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobhanmoqadam&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobhanmoqadam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sobhanmoqadam&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sobhanmoqadam&" alt="GitHub Streak" /></p>
