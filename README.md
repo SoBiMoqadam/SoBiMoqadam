@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/sobhanmoqadam/your-repo-name/blob/main/assets/animation.gif?raw=true" alt="Yellow Banner" width="100%" />
+  <img src="https://github.com/SoBiMoqadam/your-repo-name/blob/main/assets/animation.gif?raw=true" alt="Yellow Banner" width="100%" />
 </p>
 <hr style="border: 1px solid #f2c200;">
 
@@ -53,9 +53,3 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobhanmoqadam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sobhanmoqadam&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sobhanmoqadam&" alt="GitHub Streak" /></p>
