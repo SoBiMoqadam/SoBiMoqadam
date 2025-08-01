@@ -1,13 +1,4 @@
-
-<p align="center">
- <img src="https://github.com/SoBiMoqadam/SoBiMoqadam/blob/main/assets/animation.gif?raw=true" />
-</p>
-<hr style="border: 1px solid #f2c200;">
-
-
-
-<hr>
-
+![logo](https://github.com/SoBiMoqadam/SoBiMoqadam/blob/main/animation.gif)
 <h1 align="center">Hi 👋, I'm Sobhan</h1>
 <h3 align="center">Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer • From Iran</h3>
 
