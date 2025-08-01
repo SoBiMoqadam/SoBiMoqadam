@@ -1,30 +1,27 @@
-<!-- 🎬 بنر گیف زرد در بالاترین قسمت -->
-<p align="center">
-  <img src="file:///D:/Git_hub/animation.gif.mp4" alt="Yellow Hacker Banner" width="100%" />
-</p>
 
-<!-- 🔻 خط افقی جداکننده -->
+<p align="center">
+  <img src="https://github.com/sobhanmoqadam/your-repo-name/blob/main/assets/animation.gif?raw=true" alt="Yellow Banner" width="100%" />
+</p>
 <hr style="border: 1px solid #f2c200;">
 
-<!-- 🧑‍💻 معرفی اصلی -->
+
+
+<hr>
+
 <h1 align="center">Hi 👋, I'm Sobhan</h1>
 <h3 align="center">Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer • From Iran</h3>
 
-<!-- 🐍 بنر گیف سمت راست -->
 <img align="right" alt="sheikh python" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<!-- 👁 تعداد بازدید -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sobhanmoqadam&label=Profile%20views&color=0e75b6&style=flat" alt="sobhanmoqadam" />
 </p>
 
-<!-- ✨ اطلاعات کلی -->
 - 🌱 I’m currently learning **Bug Bounty**  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sobhanmoqadam)  
 - 💬 Ask me about **Python and Telegram bots**  
 - 📫 Reach me at **sobhanmoqadam226@gmail.com**
 
-<!-- 🔗 شبکه‌های اجتماعی -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sobhanmoqadam" target="_blank">
@@ -35,7 +32,6 @@
   </a>
 </p>
 
-<!-- 🛠 زبان‌ها و ابزارها -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -58,7 +54,6 @@
   </a>
 </p>
 
-<!-- 📊 وضعیت گیت‌هاب -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sobhanmoqadam&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
