@@ -29,21 +29,21 @@
 <hr style="border: 1px solid #00F5FF;" />
 
 <h2 align="center">GitHub Stats</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=5&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages"/>
-    </td>
-    <td>
-      <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?         user=nimaism&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
-    </div>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
+</div>
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=5&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages"/>
+</div>
+<br/>
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimaism&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true" alt="Streak Stats"/>
+</div>
+<br/>
 
 <hr style="border: 1px solid #00F5FF;" />
 
