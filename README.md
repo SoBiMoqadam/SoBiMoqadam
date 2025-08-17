@@ -12,7 +12,7 @@
 <h3 align="left">Languages I Use:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=00F5FF" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=00F5FF" style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/HTML-171717?style=for-the-badge&logo=html5&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/Go-171717?style=for-the-badge&logo=go&logoColor=00F5FF" style="border-radius:15px"/>
 </p>
