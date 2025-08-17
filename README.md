@@ -1,44 +1,39 @@
-<h1 align="center">Hi 👋, I'm Sobhan</h1>
-<h3 align="center">🐍 Telegram Bot Developer • 🛡️ Bug Bounty Hunter • 🕸️ Scraper Writer • 🇮🇷 From Iran</h3>
+<h1 align="center">Hi, I'm Sobhan</h1>
+<h3 align="center">Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer </h3>
 
 ---
 
-🧑‍💻 About Me
+<h2 style="color:#8A2BE2;">About Me</h2>
 
-- 🌱 Currently learning **Bug Bounty & Ethical Hacking**
-- 🧠 Passionate about **automation, scraping, and cybersecurity**
-- 💬 Ask me about **Python, Telegram Bots, Linux, and Web Scraping**
-- 📂 All my projects live here 👉 [GitHub Portfolio](https://github.com/sobhanmoqadam)
-- 📫 Reach me at: **sobhanmoqadam226@gmail.com**
+- Passionate about **automation, scraping, and cybersecurity**
+- Ask me about **Python, Telegram Bots, Linux, and Web Scraping**
+- All my projects live here 👉 [GitHub Portfolio](https://github.com/sobhanmoqadam)
+- Reach me at: **sobhanmoqadam226@gmail.com**
 
 ---
 
-Programming Languages
+<h2 style="color:#1E90FF;">Programming Languages</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" />
 </p>
 
 ---
 
-## 🛠️ Python & Bug Bounty Tools
+<h2 style="color:#8A2BE2;">Tools & Technologies</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/burpsuite/burpsuite-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" />
 </p>
 
 ---
 
-GitHub Stats Overview
+<h2 style="color:#1E90FF;">GitHub Stats Overview</h2>
 
 <table>
   <tr>
@@ -52,7 +47,7 @@ GitHub Stats Overview
         <li>HTML: 3.34%</li>
         <li>Makefile: 2.32%</li>
         <li>Dockerfile: 1.26%</li>
-        <li>Lua: 0.57%</li>
+        <li>Go: 0.57%</li>
       </ul>
     </td>
     <td>
@@ -62,7 +57,7 @@ GitHub Stats Overview
         <li>Total PRs: 7</li>
         <li>Total Issues: 1</li>
         <li>Contributed to (last year): 2</li>
-        <li>Rating: <strong>B-</strong></li>
+        <li>Rating: B-</li>
       </ul>
     </td>
   </tr>
@@ -70,34 +65,24 @@ GitHub Stats Overview
 
 ---
 
-Connect With Me
+<h2 style="color:#8A2BE2;">Connect With Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/sobhanmoqadam" target="_blank">
-    <img src="https://img.shields.io/badge/Sobhan%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/cyber_nest" target="_blank">
-    <img src="https://img.shields.io/badge/@cyber_nest-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sobhanmoqadam226@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
   </a>
 </p>
 
 ---
 
- ⚡ Fun Fact
+<h2 style="color:#1E90FF;">Fun Fact</h2>
 
 > I break bugs, build bots, and automate everything in between.
-
----
-
- 🧩 Bonus Icons
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefik/traefik-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gin/gin-original.svg" width="30" />
-</p>
