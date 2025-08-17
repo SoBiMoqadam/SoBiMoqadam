@@ -1,64 +1,57 @@
-<h1 align="center">
-  <span style="color:#00f5ff; font-family: 'Courier New', Courier, monospace;">
-    <span id="typing"></span>
-    <span style="border-right: .1em solid #00f5ff"></span>
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sobhan+Moqadam" alt="Typing SVG" />
+</p>
 
-<h3 align="center" style="color:#00f5ff;">Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer • From Iran</h3>
+<img align="right" alt="sheikh python" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+---
 
-<hr style="border: 1px solid #00F5FF;" />
+## 🌱 About Me
+- I’m currently learning **Bug Bounty & Ethical Hacking**  
+- Ask me about **Python, Telegram Bots & Web Scraping**  
+- All of my projects are available at [GitHub](https://github.com/SoBiMoqadam)  
+- Reach me at **sobhanmoqadam226@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 💻 Languages
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" />
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Sobhan's GitHub Stats"/>
+</p>
+
+---
+
+## 📫 Connect with me
+<p align="center">
   <a href="https://linkedin.com/in/sobhanmoqadam" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/00F5FF/linkedin.png" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/cyber_nest" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/00F5FF/instagram-new.png" alt="Instagram" height="40" width="40" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
   </a>
 </p>
 
-<hr style="border: 1px solid #00F5FF;" />
+---
 
-<h3 align="left">Languages I Use:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=00F5FF" alt="Python" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=00F5FF" alt="HTML5" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=00F5FF" alt="CSS3" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=00F5FF" alt="JavaScript" style="border-radius:15px"/>
-</p>
-
-<h3 align="left">Tools & Technologies:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=00F5FF" alt="Linux" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=00F5FF" alt="Git" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=00F5FF" alt="Docker" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=00F5FF" alt="MySQL" style="border-radius:15px"/>
-</p>
-
-<hr style="border: 1px solid #00F5FF;" />
-
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
-</p>
-
-<script>
-const text = "Hi, Sobhan Moqadam";
-let idx = 0;
-function type() {
-  if (idx < text.length) {
-    document.getElementById("typing").innerHTML += text.charAt(idx);
-    idx++;
-    setTimeout(type, 150);
-  }
-}
-type();
-</script>
+<p align="center">⚡ Fun Fact: I love combining **Ethical Hacking** with **Creative Python Projects** to make cool tools!</p>
