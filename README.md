@@ -8,66 +8,112 @@
   body {
     margin: 0;
     font-family: 'Courier New', monospace;
-    background-color: #171717;
+    background-color: #0d0d0d;
     color: #00f0ff;
   }
+
+  /* Common section style */
   .section {
     position: relative;
-    padding: 50px 20px;
-    overflow: hidden;
-    margin: 30px auto;
+    padding: 60px 20px;
     max-width: 900px;
+    margin: 50px auto;
     border-radius: 15px;
+    overflow: hidden;
   }
+
+  /* Neon moving lines */
+  .section::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background: repeating-linear-gradient(
+      45deg,
+      rgba(0,240,255,0.2),
+      rgba(0,240,255,0.2) 1px,
+      transparent 2px,
+      transparent 10px
+    );
+    animation: moveLines 5s linear infinite;
+    z-index: 0;
+  }
+
+  @keyframes moveLines {
+    0% {background-position: 0 0;}
+    100% {background-position: 200px 200px;}
+  }
+
   .section h1, .section h2, .section h3, .section p {
     position: relative;
     z-index: 1;
     text-align: center;
     margin: 10px 0;
   }
+
   h1 {
     font-size: 3em;
     text-shadow: 0 0 10px #00f0ff, 0 0 20px #00f0ff;
+    overflow: hidden;
+    border-right: .15em solid #00f0ff;
+    white-space: nowrap;
+    animation: typing 3s steps(30, end), blink 0.75s step-end infinite;
   }
-  h2 {
-    color: #ffd700;
-    text-shadow: 0 0 5px #ffd700;
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
   }
-  h3 {
-    text-shadow: 0 0 5px #00f0ff;
+
+  @keyframes blink {
+    50% { border-color: transparent; }
   }
+
   .typing {
     font-size: 1.5em;
-    text-shadow: 0 0 5px #00f0ff;
+    color: #00f0ff;
+    text-align: center;
+    overflow: hidden;
+    border-right: .15em solid #00f0ff;
+    white-space: nowrap;
+    animation: typing2 4s steps(40, end) infinite, blink 0.75s step-end infinite;
   }
-  .tools img, .contact img {
-    width: 50px;
+
+  @keyframes typing2 {
+    0%, 20% { width: 0; }
+    40%, 60% { width: 100%; }
+    80%, 100% { width: 0; }
+  }
+
+  /* Tools */
+  .tools img {
+    width: 60px;
     margin: 10px;
-    filter: drop-shadow(0 0 5px #00f0ff);
+    filter: drop-shadow(0 0 10px #00f0ff);
     vertical-align: middle;
   }
-  canvas {
-    position: absolute;
-    top: 0; left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 0;
+
+  /* Contact */
+  .contact img {
+    width: 50px;
+    margin: 10px;
+    filter: drop-shadow(0 0 10px #00f0ff);
+    vertical-align: middle;
   }
+
 </style>
 </head>
 <body>
 
 <!-- Typing Section -->
-<div class="section" id="typing-section">
-  <canvas></canvas>
+<div class="section">
   <h1>Hi 👋, I'm Sobhan Moqadam</h1>
   <h3>Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer • From Iran</h3>
-  <p class="typing" id="typing"></p>
+  <p class="typing">Telegram Bot Developer • Bug Bounty • Web Scraper</p>
 </div>
 
 <!-- Tools Section -->
-<div class="section" id="tools-section">
-  <canvas></canvas>
+<div class="section">
   <h2>Languages & Tools</h2>
   <div class="tools">
     <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=00f0ff&color=171717" alt="Python">
@@ -80,8 +126,7 @@
 </div>
 
 <!-- Contact Section -->
-<div class="section" id="contact-section">
-  <canvas></canvas>
+<div class="section">
   <h2>Contact Me</h2>
   <div class="contact">
     <a href="https://linkedin.com/in/sobhanmoqadam" target="_blank">
@@ -92,66 +137,6 @@
     </a>
   </div>
 </div>
-
-<!-- Typing Script -->
-<script>
-const texts = ["Telegram Bot Developer", "Bug Bounty Hunter", "Web Scraper"];
-let count = 0, index = 0, currentText = "", letter = "";
-(function type(){
-  if(count === texts.length) count = 0;
-  currentText = texts[count];
-  letter = currentText.slice(0, ++index);
-  document.getElementById("typing").textContent = letter;
-  if(letter.length === currentText.length){
-    count++; index=0; setTimeout(type,1000);
-  } else setTimeout(type,150);
-})();
-</script>
-
-<!-- Neon Lines Script -->
-<script>
-function createNeon(canvas) {
-  const ctx = canvas.getContext('2d');
-  canvas.width = canvas.offsetWidth;
-  canvas.height = canvas.offsetHeight;
-
-  const lines = [];
-  for(let i=0;i<20;i++){
-    lines.push({
-      x: Math.random()*canvas.width,
-      y: Math.random()*canvas.height/2, // فقط نیمه بالا
-      length: 50 + Math.random()*100,
-      speed: 0.5 + Math.random()*1.5,
-      angle: Math.random()*2*Math.PI,
-      color: 'rgba(0, 240, 255, 0.3)',
-    });
-  }
-
-  function draw(){
-    ctx.clearRect(0,0,canvas.width,canvas.height);
-    lines.forEach(line=>{
-      ctx.beginPath();
-      ctx.moveTo(line.x, line.y);
-      ctx.lineTo(line.x + Math.cos(line.angle)*line.length, line.y + Math.sin(line.angle)*line.length);
-      ctx.strokeStyle = line.color;
-      ctx.lineWidth = 2;
-      ctx.shadowColor = '#00f0ff';
-      ctx.shadowBlur = 10;
-      ctx.stroke();
-      line.x += Math.cos(line.angle)*line.speed;
-      line.y += Math.sin(line.angle)*line.speed;
-      if(line.x>canvas.width+50) line.x=-50;
-      if(line.x<-50) line.x=canvas.width+50;
-      if(line.y>canvas.height/2+50) line.y=-50;
-      if(line.y<-50) line.y=canvas.height/2+50;
-    });
-    requestAnimationFrame(draw);
-  }
-  draw();
-}
-
-document.querySelectorAll('canvas').forEach(c => createNeon(c));
-</script>
 
 </body>
 </html>
