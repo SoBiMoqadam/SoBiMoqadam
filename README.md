@@ -1,67 +1,102 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sobhan+Moqadam" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="sheikh python" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
-
----
-
-## 🌱 About Me
-- I’m currently learning **Bug Bounty & Ethical Hacking**  
-- Ask me about **Python, Telegram Bots & Web Scraping**  
-- All of my projects are available at [GitHub](https://github.com/SoBiMoqadam)  
-- Reach me at **sobhanmoqadam226@gmail.com**
-
----
-
-## 💻 Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" />
-</p>
-
----
-
-## 🛠 Tools & Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-</p>
-
----
-
-## 📊 GitHub Stats
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt="Top Languages"/>
+    <h1 style="font-family: 'Courier New', Courier, monospace; font-size: 3em; color: #00f0ff;">
+        Hi 👋, I'm Sobhan Moqadam
+    </h1>
+</div>
+
+<div align="center">
+    <h3 style="font-family: 'Courier New', Courier, monospace; color: #00f0ff;">
+        <span id="typing"></span>
+    </h3>
+</div>
+
+<style>
+
+#typing {
+    border-right: 2px solid #00f0ff;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@keyframes blink {
+    0%, 50%, 100% { border-color: #00f0ff; }
+    25%, 75% { border-color: transparent; }
+}
+
+
+.line-animation {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, #00f0ff 0%, transparent 100%);
+    animation: moveLine 2s linear infinite;
+}
+@keyframes moveLine {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
+</style>
+
+<div class="line-animation"></div>
+<div class="line-animation" style="top: 50px; animation-duration: 3s;"></div>
+
+<script>
+
+const typingText = "Telegram Bot Developer • Bug Bounty • Web Scraper";
+let i = 0;
+function typeWriter() {
+    if (i < typingText.length) {
+        document.getElementById("typing").innerHTML += typingText.charAt(i);
+        i++;
+        setTimeout(typeWriter, 100);
+    }
+}
+typeWriter();
+</script>
+
+<br>
+
+<h2 align="center" style="color:#ffd700;">Languages</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=ffd700&color=171717" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=ffd700&color=171717" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=ffd700&color=171717" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Go-171717?style=for-the-badge&logo=go&logoColor=ffd700&color=171717" style="border-radius:15px"/>
+</div>
+
+<br>
+
+<h2 align="center" style="color:#ffd700;">Tools</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/Kali_Linux-171717?style=for-the-badge&logo=kali-linux&logoColor=ffd700&color=171717" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=ffd700&color=171717" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=ffd700&color=171717" style="border-radius:15px"/>
+</div>
+
+<br><br>
+
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=ffd700&icon_color=ffd700&text_color=ffffff&count_private=true"  alt="Top Languages"/>
 </div>
 <br/>
+
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=171717&title_color=ffd700&icon_color=ffd700&text_color=ffffff&count_private=true"  alt="GitHub Stats"/>
 </div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Telegram+Bot+Developer+%E2%80%A2+Bug+Bounty+%E2%80%A2+Web+Scraper" alt="Typing SVG" />
-</p>
+<h2 align="center" style="color:#ffd700;">Contact Me</h2>
+<div align="center">
+    <a href="https://linkedin.com/in/sobhanmoqadam" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <a href="https://instagram.com/cyber_nest" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+    </a>
+</div>
 
----
-
-## 📫 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/sobhanmoqadam" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/cyber_nest" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
-  </a>
-</p>
-
----
-
-<p align="center">⚡ Fun Fact: I love combining **Ethical Hacking** with **Creative Python Projects** to make cool tools!</p>
+<br>
+<div align="center">
+    <img src="https://count.getloli.com/get/@:SoBiMoqadam" alt="Profile Views"/>
+</div>
