@@ -46,8 +46,8 @@
 
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/sobhanmoqadam"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=00F5FF" style="border-radius:15px; height:50px;" alt="LinkedIn"></a>
-  <a href="https://instagram.com/cyber_nest"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=00F5FF" style="border-radius:15px; height:50px;" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/sobhan-moqadam-9b0203322/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=00F5FF" style="border-radius:15px" alt="LinkedIn"></a>
   <a href="mailto:sobhanmoqadam226@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=00F5FF" style="border-radius:15px; height:50px;" alt="Email"></a>
 </p>
 
