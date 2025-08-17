@@ -37,6 +37,11 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=5&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages"/>
     </td>
+    <td>
+      <div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?         user=nimaism&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true"  alt=""/>
+    </div>
+    </td>
   </tr>
 </table>
 
