@@ -1,9 +1,9 @@
-<p align="center">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Coding GIF" width="600"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Sobhan Moqadam</h1>
-<h3 align="center">Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer • From Iran</h3>
+<h3 align="center" style="color:#00F5FF;">Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer • From Iran</h3>
+
+<p align="right">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Coding GIF" width="350"/>
+</p>
 
 <p align="center">
     <a href="https://linkedin.com/in/sobhanmoqadam"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=00F5FF" style="border-radius:15px; height:40px;" alt="LinkedIn"></a>
@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=00F5FF" style="border-radius:15px; height:40px;"/> 
     <img src="https://img.shields.io/badge/Kali-171717?style=for-the-badge&logo=kalilinux&logoColor=00F5FF" style="border-radius:15px; height:40px;"/> 
     <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=00F5FF" style="border-radius:15px; height:40px;"/> 
-    <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=00F5FF" style="border-radius:15px; height:40px;"/> 
     <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=00F5FF" style="border-radius:15px; height:40px;"/> 
 </p>
 
@@ -50,6 +49,6 @@
 ---
 
 <h2 align="center">💡 Motivational Fact</h2>
-<p align="center">
+<p align="center" style="color:#00F5FF; font-size:18px;">
 "Every expert was once a beginner. Keep learning and pushing your limits!" 🚀
 </p>
