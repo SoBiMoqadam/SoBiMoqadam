@@ -35,8 +35,18 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=10&layout=compact&theme=gruvbox_duo&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt="Top Languages"/>
+</div>
+<br/>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt="GitHub Stats"/>
+</div>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&theme=radical&count_private=true&hide_border=false" alt="Sobhan's GitHub Stats"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Telegram+Bot+Developer+%E2%80%A2+Bug+Bounty+%E2%80%A2+Web+Scraper" alt="Typing SVG" />
 </p>
 
 ---
