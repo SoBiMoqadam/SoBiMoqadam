@@ -30,19 +30,22 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
-</div>
-<br/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=5&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages"/>
-</div>
-<br/>
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
+    </div>
 
-<div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimaism&theme=gruvbox_duo&background=171717&hide_border=true&ring=5459a7&currStreakLabel=5459a7&sideNums=5459a7&currStreakNum=5459a7&sideLabels=5459a7&text_color=ffffff&count_private=true" alt="Streak Stats"/>
+    <div>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=5&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages"/>
+    </div>
+
+    <div>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoBiMoqadam&theme=dark&background=171717&hide_border=true&ring=00F5FF&currStreakLabel=00F5FF&sideNums=00F5FF&currStreakNum=00F5FF&sideLabels=00F5FF&text_color=ffffff&count_private=true" alt="Streak Stats"/>
+    </div>
+
 </div>
+
 <br/>
 
 <hr style="border: 1px solid #00F5FF;" />
