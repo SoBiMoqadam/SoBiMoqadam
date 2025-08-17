@@ -22,11 +22,12 @@
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=00F5FF" style="border-radius:15px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50" style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-171717?style=for-the-badge&logo=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F64%2FKali-dragon-icon.svg&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/NGINX-171717?style=for-the-badge&logo=nginx&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/Apache-171717?style=for-the-badge&logo=apache&logoColor=00F5FF" style="border-radius:15px"/>
 </p>
+
 
 
 <hr style="border: 1px solid #00F5FF;" />
