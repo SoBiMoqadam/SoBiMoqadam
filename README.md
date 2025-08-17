@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/Kali_Linux-171717?style=for-the-badge&logo=kali-linux&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=00F5FF" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/NGINX-171717?style=for-the-badge&logo=nginx&logoColor=00F5FF" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/Apache-171717?style=for-the-badge&logo=apache&logoColor=00F5FF" style="border-radius:15px"/>
 </p>
 
 
