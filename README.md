@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Kali_Linux-171717?style=for-the-badge&logo=kali-linux&logoColor=00F5FF" style="border-radius:15px" />
   <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=00F5FF" style="border-radius:15px" />
   <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=00F5FF" style="border-radius:15px" />
-  <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=00F5FF" style="border-radius:15px" />
+  <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=00F5FF" style="border-radius:15px" />
 </p>
 
 
