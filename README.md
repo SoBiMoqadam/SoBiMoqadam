@@ -22,13 +22,14 @@
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=00F5FF" style="border-radius:15px" />
   <img src="https://img.shields.io/badge/Kali_Linux-171717?style=for-the-badge&logo=kali-linux&logoColor=00F5FF" style="border-radius:15px" />
   <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=00F5FF" style="border-radius:15px" />
   <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=00F5FF" style="border-radius:15px" />
   <img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=00F5FF" style="border-radius:15px" />
 </p>
+
 
 
 <hr style="border: 1px solid #00F5FF;" />
