@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=5&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoBiMoqadam&theme=dark&background=171717&hide_border=true&ring=00F5FF&currStreakLabel=00F5FF&sideNums=00F5FF&currStreakNum=00F5FF&sideLabels=00F5FF&text_color=ffffff&count_private=true" alt="Streak Stats"/>
 </p>
 
 <hr style="border: 1px solid #00F5FF;" />
