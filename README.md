@@ -1,6 +1,5 @@
 <h1 align="center">
-    Hi👋, I'm Sobhan Moqada
-    
+    Hi👋, I'm Sobhan Moqadam
 </h1>
 <h3 align="center" style="color:#00F5FF;">
     Telegram Bot Developer • Bug Bounty Hunter • Scraper Writer
