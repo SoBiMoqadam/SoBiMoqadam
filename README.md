@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/HTML-171717?style=for-the-badge&logo=html5&logoColor=00F5FF" style="border-radius:15px"/>
   <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css&logoColor=00F5FF" style="border-radius:15px"/>
-  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=00F5FF" style="border-radius:15px"/>
 </p>
 
 <h3 align="left">Tools & Technologies:</h3>
