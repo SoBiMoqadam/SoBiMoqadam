@@ -7,10 +7,10 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
-│  kali@devsecops:~$ whoami                                           │
+│  kali@devsecops:~$ whoami                                            │
 │                                                                      │
-│  DevSecOps Engineer                                                 │
-│  Automation • Security • Cloud                                      │                            
+│  DevSecOps Engineer                                                  │
+│  Automation • Security • Cloud                                       │                            
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
