@@ -10,9 +10,7 @@
 │  kali@devsecops:~$ whoami                                           │
 │                                                                      │
 │  DevSecOps Engineer                                                 │
-│  Automation • Security • Cloud                                      │
-│                                                                      │
-│  Secure it. Automate it. Scale it.                                  │
+│  Automation • Security • Cloud                                      │                            │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
