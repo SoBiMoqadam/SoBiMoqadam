@@ -2,8 +2,6 @@
 
 # Hi 👋 I'm Sobhan
 
-### DevSecOps Engineer · Automation · Security · Cloud
-
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
 │  kali@devsecops:~$ whoami                                           │
@@ -72,11 +70,17 @@
 ## `what_i_do`
 
 |  | What I Do                               |
+
 |  | --------------------------------------- |
+
 |  | **Secure CI/CD Pipelines**              |
+
 |  | **Automation & Infrastructure as Code** |
+
 |  | **Advanced Web Scraping Systems**       |
+
 |  | **Telegram Bots & Backend Systems**     |
+
 |  | **Containerized Applications**          |
 
 ---
