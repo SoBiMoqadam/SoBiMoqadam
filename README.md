@@ -1,9 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Sobhan</h1>
-
-<h3>DevSecOps Engineer · Automation · Security · Cloud</h3>
-
+# Hi, I'm Sobhan
 </div>
 
 <img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
@@ -75,59 +72,51 @@
 
 ## `what_i_do`
 
-<table>
-<tr>
-<th>What I Do</th>
-</tr>
-<tr>
-<td><strong>Secure CI/CD Pipelines</strong></td>
-</tr>
-<tr>
-<td><strong>Automation & Infrastructure as Code</strong></td>
-</tr>
-<tr>
-<td><strong>Advanced Web Scraping Systems</strong></td>
-</tr>
-<tr>
-<td><strong>Telegram Bots & Backend Systems</strong></td>
-</tr>
-<tr>
-<td><strong>Containerized Applications</strong></td>
-</tr>
-</table>
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  $ ./what_i_do                                                       │
+│                                                                      │
+│  [01]  SECURE CI/CD                                                  │
+│        Security-first pipelines, automated checks & deployments       │
+│                                                                      │
+│  [02]  INFRASTRUCTURE AS CODE                                       │
+│        Automated infrastructure & reproducible environments           │
+│                                                                      │
+│  [03]  AUTOMATION                                                     │
+│        Python automation, bots & backend systems                      │
+│                                                                      │
+│  [04]  WEB SCRAPING                                                   │
+│        Scalable scraping systems & data automation                    │
+│                                                                      │
+│  [05]  CONTAINERIZATION                                               │
+│        Dockerized applications & cloud-ready environments             │
+│                                                                      │
+│  [06]  SYSTEM SECURITY                                                │
+│        Hardening, security automation & infrastructure protection     │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## `github_stats`
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=SobhanMoqadam&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=A855F7&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=SobhanMoqadam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true"
 alt="GitHub Stats"
-height="180"
+width="48%"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanMoqadam&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=A855F7"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanMoqadam&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8"
 alt="Top Languages"
-height="180"
+width="40%"
 />
 
-</p>
-
----
-
-## `github_activity`
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=SobhanMoqadam&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=A855F7&currStreakNum=A855F7&sideNums=A855F7"
-alt="GitHub Streak"
-/>
-
-</p>
+</div>
 
 ---
 
@@ -136,26 +125,26 @@ alt="GitHub Streak"
 <div align="center">
 
 <a href="https://github.com/SobhanMoqadam">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sobhan-moqadam-9b0203322/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:sobhanmoqadam226@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email"/>
 </a>
 
 </div>
 
 <br>
 
+<div align="center">
+
 ```text
 kali@devsecops:~$ _
 ```
-
-<div align="center">
 
 ### Secure it. · Automate it. · Scale it.
 
