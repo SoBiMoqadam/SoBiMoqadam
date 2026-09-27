@@ -20,7 +20,7 @@
 
 ---
 
-## `cat about.txt`
+## `About`
 
 > **About Me**
 
@@ -41,7 +41,7 @@
 
 ---
 
-## `cat skills.txt`
+## `Skills`
 
 ### Languages
 
@@ -70,7 +70,7 @@
 
 ---
 
-## `what_i_do`
+## ``
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -78,49 +78,27 @@
 │  $ ./what_i_do                                                       │
 │                                                                      │
 │  [01]  SECURE CI/CD                                                  │
-│        Security-first pipelines, automated checks & deployments       │
+│        Security-first pipelines, automated checks & deployments      │
 │                                                                      │
-│  [02]  INFRASTRUCTURE AS CODE                                       │
-│        Automated infrastructure & reproducible environments           │
+│  [02]  INFRASTRUCTURE AS CODE                                        │
+│        Automated infrastructure & reproducible environments          │
 │                                                                      │
-│  [03]  AUTOMATION                                                     │
-│        Python automation, bots & backend systems                      │
+│  [03]  AUTOMATION                                                    │
+│        Python automation, bots & backend systems                     │
 │                                                                      │
-│  [04]  WEB SCRAPING                                                   │
-│        Scalable scraping systems & data automation                    │
+│  [04]  WEB SCRAPING                                                  │
+│        Scalable scraping systems & data automation                   │
 │                                                                      │
-│  [05]  CONTAINERIZATION                                               │
-│        Dockerized applications & cloud-ready environments             │
+│  [05]  CONTAINERIZATION                                              │
+│        Dockerized applications & cloud-ready environments            │
 │                                                                      │
-│  [06]  SYSTEM SECURITY                                                │
-│        Hardening, security automation & infrastructure protection     │
+│  [06]  SYSTEM SECURITY                                               │
+│        Hardening, security automation & infrastructure protection    │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## `github_stats`
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=SobhanMoqadam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&include_all_commits=true"
-alt="GitHub Stats"
-width="48%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanMoqadam&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8"
-alt="Top Languages"
-width="40%"
-/>
-
-</div>
-
----
-
-## `connect`
+## `Connect With Me`
 
 <div align="center">
 
