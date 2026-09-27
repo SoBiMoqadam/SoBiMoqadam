@@ -1,138 +1,116 @@
-<div align="center">
+<h1 align="center">
+    Hi👋, Us Sobhan & Amir
+    Hi 👋, Sobhan & Amir
+</h1>
 
-# Hi, I'm Sobhan
-
-### DevSecOps Engineer · Automation · Security · Cloud
-
-</div>
+<h3 align="center" style="color:#00F5FF;">
+    Back-End Developer • Ciber Securoty • Scraper Writer
+    🚀 DevSecOps Engineer | Automation • Security • Cloud
+</h3>
 
 <img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│  kali@devsecops:~$ whoami                                           │
-│                                                                      │
-│  DevSecOps Engineer                                                 │
-│  Automation • Security • Cloud                                      │
-│                                                                      │
-│  Secure it. Automate it. Scale it.                                  │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-<br clear="right"/>
-
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SoBiMoqadam)
+- 💬 Ask me about **Python, Telegram bots, and Web Scraping**
+- 📫 Reach me at **sobhanmoqadam226@gmail.com**
 ---
 
-## `cat about.txt`
+### 👨‍💻 About Me
 
-> **About Me**
+* 🔭 Currently working in **DevSecOps & Secure Infrastructure**
+* ⚙️ Passionate about **Automation, CI/CD, and Cloud Security**
+* 🐍 Strong background in **Python, Web Scraping & Bot Development**
+* 🛡️ Focused on **Cybersecurity & System Hardening**
+* 📂 All of my projects:
+  👉 https://github.com/SoBiMoqadam
+* 💬 Ask me about **DevOps, Security, Python & Automation**
+* 📫 Reach me at: **[sobhanmoqadam226@gmail.com](mailto:sobhanmoqadam226@gmail.com)**
 
-* Currently working in **DevSecOps & Secure Infrastructure**
-* Passionate about **Automation, CI/CD, and Cloud Security**
-* Strong background in **Python, Web Scraping & Bot Development**
-* Focused on **Cybersecurity & System Hardening**
-* All of my projects: **[github.com/SobhanMoqadam](https://github.com/SobhanMoqadam)**
-* Ask me about **DevOps, Security, Python & Automation**
-* Reach me at **[sobhanmoqadam226@gmail.com](mailto:sobhanmoqadam226@gmail.com)**
-
-```text
-        ╱╲        ╱╲
-   ╱╲  ╱  ╲  ╱╲  ╱  ╲
-  ╱  ╲╱    ╲╱  ╲╱    ╲
-       BUILD • AUTOMATE • SECURE
-```
-
+<hr style="border: 1px solid #00F5FF;" />
 ---
 
-## `cat skills.txt`
-
-### Languages
-
+<h3 align="left">Languages I Use:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=00F5FF" style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/HTML-171717?style=for-the-badge&logo=html5&logoColor=00F5FF" style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css&logoColor=00F5FF" style="border-radius:15px"/>
+  <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=00F5FF" style="border-radius:15px"/>
+### ⚡ Tech Stack
 
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=A855F7" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=A855F7" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=A855F7" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=A855F7" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=A855F7" alt="Go"/>
+#### 💻 Languages
 
+<p>
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=00F5FF"/>
 </p>
 
-### DevSecOps & Tools
-
+<h3 align="left">Tools & Technologies:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/Linux-171717?style=for-the-badge&logo=linux&logoColor=00F5FF" style="border-radius:15px" />
+  <img src="https://img.shields.io/badge/Kali_Linux-171717?style=for-the-badge&logo=kali-linux&logoColor=00F5FF" style="border-radius:15px" />
+  <img src="https://img.shields.io/badge/MySQL-171717?style=for-the-badge&logo=mysql&logoColor=00F5FF" style="border-radius:15px" />
+  <img src="https://img.shields.io/badge/Docker-171717?style=for-the-badge&logo=docker&logoColor=00F5FF" style="border-radius:15px" />
+  <img src="https://img.shields.io/badge/Git-171717?style=for-the-badge&logo=git&logoColor=00F5FF" style="border-radius:15px" />
+#### ⚙️ DevSecOps & Tools
 
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=A855F7" alt="Linux"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=A855F7" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=A855F7" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=A855F7" alt="Git"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=A855F7" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=A855F7" alt="Terraform"/>
-
+<p>
+  <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-0f172a?style=for-the-badge&logo=kali-linux&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=00F5FF"/>
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00F5FF"/>
 </p>
 
 ---
 
-## `what_i_do`
+### 🔥 What I Do
 
-|   | What I Do                               ||
-| - | --------------------------------------- ||
-|   | **Secure CI/CD Pipelines**              ||
-|   | **Automation & Infrastructure as Code** ||
-|   | **Advanced Web Scraping Systems**       ||
-|   | **Telegram Bots & Backend Systems**     ||
-|   | **Containerized Applications**          ||
+<hr style="border: 1px solid #00F5FF;" />
+* 🔐 Secure CI/CD Pipelines
+* 🧠 Automation & Infrastructure as Code
+* 🕷️ Advanced Web Scraping Systems
+* 🤖 Telegram Bots & Backend Systems
+* ☁️ Containerized Applications (Docker-based)
 
+<h2 align="center">GitHub Stats</h2>
 ---
 
-## `github_stats`
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&langs_count=100&layout=compact&theme=dark&hide_border=true&bg_color=171717&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SoBiMoqadam&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoBiMoqadam&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SobhanMoqadam&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SobhanMoqadam&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
-
-</div>
-
+<hr style="border: 1px solid #00F5FF;" />
 ---
 
-## `github_activity`
+### 🌐 Connect With Me
 
-<div align="center">
+<h2 align="center">Contact Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sobhan-moqadam-9b0203322/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=00F5FF" style="border-radius:15px; height:50px;" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sobhan-moqadam-9b0203322/">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+  </a>
+  <a href="mailto:sobhanmoqadam226@gmail.com">
+    <img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=00F5FF" style="border-radius:15px; height:50px;" alt="Email">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+  </a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SobhanMoqadam&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
-
-</div>
-
+<hr style="border: 1px solid #00F5FF;" />
 ---
 
-## `connect`
+### ⚡ Dev Mindset
 
-<div align="center">
-
-<a href="https://github.com/SobhanMoqadam">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A855F7" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sobhan-moqadam-9b0203322/">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:sobhanmoqadam226@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=A855F7" alt="Email"/>
-</a>
-
-</div>
-
-<br>
-
-```text
-kali@devsecops:~$ _
-```
-
-<div align="center">
-
-### Secure it. · Automate it. · Scale it.
-
-</div>
+<h3 align="center">Motivational Fact</h3>
+<p align="center">"The best way to get started is to quit talking and begin doing." 💪</p>
+<p align="center">
+"Secure it. Automate it. Scale it." 🚀
+</p>
