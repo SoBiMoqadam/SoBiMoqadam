@@ -70,9 +70,9 @@
 
 ---
 
-## ``
+## `I can`
 
-```text
+```
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
 │  $ ./what_i_do                                                       │
@@ -98,7 +98,7 @@
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-## `Connect With Me`
+## `Connect-With-Me`
 
 <div align="center">
 
@@ -124,6 +124,6 @@
 kali@devsecops:~$ _
 ```
 
-### Secure it. · Automate it. · Scale it.
+### Secure it · Automate it · Scale it
 
 </div>
