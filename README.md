@@ -53,7 +53,7 @@
 
 </p>
 
-### DevSecOps & Tools
+### Tools
 
 <p align="left">
 
