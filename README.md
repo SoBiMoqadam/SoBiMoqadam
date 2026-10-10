@@ -113,9 +113,6 @@
 
 <div align="center">
 
-```text
-kali@devsecops:~$ _
-```
 
 ### Secure it · Automate it · Scale it
 
