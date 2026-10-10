@@ -9,8 +9,8 @@
         ┌──────────────────────────────────────────────────────────────────────┐
         │  kali@devsecops:~$ whoami                                            │
         │                                                                      │
-        │  DevSecOps Engineer                                                  │
-        │  Automation • Security • Cloud                                       │                            
+        │  Bug Bounty                                                          │
+        │  Security Testing • XSS • IDOR                                       │                            
         └──────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -22,19 +22,19 @@
 
 > **About Me**
 
-* Currently working in **DevSecOps & Secure Infrastructure**
-* Passionate about **Automation, CI/CD, and Cloud Security**
-* Strong background in **Python, Web Scraping & Bot Development**
-* Focused on **Cybersecurity & System Hardening**
-* All of my projects: **[github.com/SobhanMoqadam](https://github.com/SobhanMoqadam)**
-* Ask me about **DevOps, Security, Python & Automation**
-* Reach me at **[sobhanmoqadam226@gmail.com](mailto:sobhanmoqadam226@gmail.com)**
-
+- Currently focused on **Bug Bounty Hunting & Web Security**
+- Passionate about **Vulnerability Research, Recon & Ethical Hacking**
+- Exploring **OWASP Top 10, XSS, SQLi & IDOR**
+- Focused on **Finding Vulnerabilities & Responsible Disclosure**
+- Building skills in **Python, Automation & Security Testing**
+- All of my projects: [**github.com/SobhanMoqadam**](https://github.com/SobhanMoqadam)
+- Ask me about **Bug Bounty, Web Security & Python**
+- Reach me at [**sobhanmoqadam226@gmail.com**](mailto:sobhanmoqadam226@gmail.com)
 ```text
         ╱╲        ╱╲
    ╱╲  ╱  ╲  ╱╲  ╱  ╲
   ╱  ╲╱    ╲╱  ╲╱    ╲
-       BUILD • AUTOMATE • SECURE
+       FIND • HUNT • RECON
 ```
 
 ---
@@ -72,26 +72,23 @@
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
+│  [01]  RECONNAISSANCE                                                │
+│        Asset discovery, subdomain enumeration & attack surface       │
 │                                                                      │
-│  $ ./what_i_do                                                       │
+│  [02]  WEB VULNERABILITY HUNTING                                     │
+│        Hunting security flaws across web applications                │
 │                                                                      │
-│  [01]  SECURE CI/CD                                                  │
-│        Security-first pipelines, automated checks & deployments      │
+│  [03]  OWASP TOP 10                                                  │
+│        Exploring common web vulnerabilities & security weaknesses    │
 │                                                                      │
-│  [02]  INFRASTRUCTURE AS CODE                                        │
-│        Automated infrastructure & reproducible environments          │
+│  [04]  SECURITY TESTING                                              │
+│        Testing for XSS, SQLi, IDOR & access control flaws            │
 │                                                                      │
-│  [03]  AUTOMATION                                                    │
-│        Python automation, bots & backend systems                     │
+│  [05]  PYTHON AUTOMATION                                             │
+│        Custom scripts, recon tools & security workflow automation    │
 │                                                                      │
-│  [04]  WEB SCRAPING                                                  │
-│        Scalable scraping systems & data automation                   │
-│                                                                      │
-│  [05]  CONTAINERIZATION                                              │
-│        Dockerized applications & cloud-ready environments            │
-│                                                                      │
-│  [06]  SYSTEM SECURITY                                               │
-│        Hardening, security automation & infrastructure protection    │
+│  [06]  RESPONSIBLE DISCLOSURE                                        │
+│        Validating findings, documenting impact & reporting bugs      │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
