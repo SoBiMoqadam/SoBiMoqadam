@@ -57,12 +57,10 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=A855F7" alt="Linux"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=A855F7" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=A855F7" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=A855F7" alt="Git"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=A855F7" alt="MySQL"/>
-<img src="https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform&logoColor=A855F7" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=A855F7" alt="Python"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=A855F7" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=A855F7" alt="JavaScript"/>
 
 </p>
 
