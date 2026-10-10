@@ -61,12 +61,12 @@
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=A855F7" alt="Python"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=A855F7" alt="Kali Linux"/>
 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=A855F7" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=A855F7" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/OWASP%20ZAP-111827?style=for-the-badge&logo=owasp&logoColor=A855F7" alt="OWASP ZAP"/>
 
 </p>
 
 ---
-
-## `I can`
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
